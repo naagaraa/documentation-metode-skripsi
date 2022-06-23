@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Metode Skripsi",
   tagline: "Metode Skripsi for student write in php",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://naagaraa.github.io",
+  baseUrl: "/documentation-metode-skripsi/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/icon.png",
@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "nagara", // Usually your GitHub org/user name.
+  organizationName: "naagaraa", // Usually your GitHub org/user name.
   projectName: "documentation-metode-skripsi", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
