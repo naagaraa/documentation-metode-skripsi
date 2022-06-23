@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmetode_skripsi=self.webpackChunkmetode_skripsi||[]).push([[6859],{9802:function(e){e.exports=JSON.parse('{"permalink":"/documentation-metode-skripsi/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
