@@ -7,7 +7,6 @@ import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import About from "../components/About";
 
 import styles from "./index.module.css";
-import "bootstrap";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
