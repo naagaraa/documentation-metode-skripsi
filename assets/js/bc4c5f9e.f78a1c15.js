@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmetode_skripsi=self.webpackChunkmetode_skripsi||[]).push([[6967],{8528:function(e){e.exports=JSON.parse('{"label":"hola","permalink":"/web-metode-skripsi/blog/tags/hola","allTagsPath":"/web-metode-skripsi/blog/tags","count":1}')}}]);
