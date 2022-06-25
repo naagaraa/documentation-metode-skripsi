@@ -9,7 +9,7 @@ const config = {
   title: "Metode Skripsi",
   tagline: "Metode Skripsi for student write in php",
   url: "https://naagaraa.github.io",
-  baseUrl: "/documentation-metode-skripsi/",
+  baseUrl: "/web-metode-skripsi/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/icon.png",
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "naagaraa", // Usually your GitHub org/user name.
-  projectName: "documentation-metode-skripsi", // Usually your repo name.
+  projectName: "web-metode-skripsi", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
